@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying Software Engineering, Computer Science in UIC
 - 📫 How to reach me: ig itmore
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I like Minami from Jujutsu Kaisen and Qifrey from Atelier Witch Hat
+- ⚡ Fun fact: I like Qifrey from Atelier Witch Hat
 
 <!---
 tpham66/tpham66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
